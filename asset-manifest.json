@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kakako-login-test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/kakako-login-test/static/js/main.bcdb403b.chunk.js",
+    "main.js.map": "/kakako-login-test/static/js/main.bcdb403b.chunk.js.map",
+    "runtime-main.js": "/kakako-login-test/static/js/runtime-main.de1ad13c.js",
+    "runtime-main.js.map": "/kakako-login-test/static/js/runtime-main.de1ad13c.js.map",
+    "static/js/2.f1dba77b.chunk.js": "/kakako-login-test/static/js/2.f1dba77b.chunk.js",
+    "static/js/2.f1dba77b.chunk.js.map": "/kakako-login-test/static/js/2.f1dba77b.chunk.js.map",
+    "index.html": "/kakako-login-test/index.html",
+    "precache-manifest.9a421212d6c4a0988172f1f48034774d.js": "/kakako-login-test/precache-manifest.9a421212d6c4a0988172f1f48034774d.js",
+    "service-worker.js": "/kakako-login-test/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/kakako-login-test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f1dba77b.chunk.js.LICENSE.txt": "/kakako-login-test/static/js/2.f1dba77b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/kakako-login-test/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de1ad13c.js",
+    "static/js/2.f1dba77b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.bcdb403b.chunk.js"
+  ]
+}
